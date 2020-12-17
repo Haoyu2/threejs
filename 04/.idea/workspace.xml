@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e128de4b-74f5-4dd6-a285-3e762410f991" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../03/planets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03/square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celestialBody.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movingSun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/earth_day.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/earth_night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/jupiter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/mars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/mars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/mercury.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/moon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/neptune.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/pluto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/saturn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/saturn_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/stars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/sun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/uranus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/venus_atmo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textures/venus_surface.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lFdvKMdc66BDcC0bxkGlx8xLts" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e128de4b-74f5-4dd6-a285-3e762410f991" name="Default Changelist" comment="" />
+      <created>1607197002981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607197002981</updated>
+      <workItem from="1607197004387" duration="5344000" />
+      <workItem from="1607363865236" duration="599000" />
+      <workItem from="1607414286379" duration="29848000" />
+      <workItem from="1607635179261" duration="15000" />
+      <workItem from="1607635205423" duration="24124000" />
+      <workItem from="1607711796376" duration="125000" />
+      <workItem from="1607711938644" duration="1218000" />
+      <workItem from="1608019783453" duration="21906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
