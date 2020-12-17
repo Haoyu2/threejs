@@ -2,27 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e128de4b-74f5-4dd6-a285-3e762410f991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../03/planets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03/square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celestialBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movingSun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/earth_day.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/earth_night.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/jupiter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/mars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/mars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/mercury.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/moon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/neptune.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/pluto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/saturn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/saturn_ring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/stars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/sun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/sun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/uranus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/venus_atmo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/venus_surface.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/celestialBody.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/movingSun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/earth_day.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/earth_night.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/jupiter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/mars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/mars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/mercury.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/moon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/neptune.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/pluto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/saturn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/saturn_ring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/stars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/sun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/uranus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/venus_atmo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/textures/venus_surface.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +55,6 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,11 +66,9 @@
       <workItem from="1607197004387" duration="5344000" />
       <workItem from="1607363865236" duration="599000" />
       <workItem from="1607414286379" duration="29848000" />
-      <workItem from="1607635179261" duration="15000" />
-      <workItem from="1607635205423" duration="24124000" />
-      <workItem from="1607711796376" duration="125000" />
-      <workItem from="1607711938644" duration="1218000" />
-      <workItem from="1608019783453" duration="22302000" />
+      <workItem from="1607635131522" duration="1340000" />
+      <workItem from="1607711802647" duration="734000" />
+      <workItem from="1608020144239" duration="3961000" />
     </task>
     <servers />
   </component>
