@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e128de4b-74f5-4dd6-a285-3e762410f991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/planets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/celestialBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/movingSun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/earth_day.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/earth_night.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/jupiter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/mars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/mars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/mercury.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/moon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/neptune.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/pluto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/saturn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/saturn_ring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/stars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/sun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/sun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/uranus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/venus_atmo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04/textures/venus_surface.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04/gui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04/gui.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +50,7 @@
       <workItem from="1607414286379" duration="29848000" />
       <workItem from="1607635131522" duration="1340000" />
       <workItem from="1607711802647" duration="734000" />
-      <workItem from="1608020144239" duration="3961000" />
+      <workItem from="1608020144239" duration="4561000" />
     </task>
     <servers />
   </component>

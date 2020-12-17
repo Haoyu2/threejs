@@ -1,7 +1,7 @@
 import {GUI} from "three/examples/jsm/libs/dat.gui.module.js"
 
 export const controllers = {
-    'moving' : true,
+    'moving' : false,
     'sun_speed': 500,
 }
 

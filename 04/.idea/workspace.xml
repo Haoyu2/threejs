@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e128de4b-74f5-4dd6-a285-3e762410f991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../03/planets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03/square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/celestialBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movingSun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/earth_day.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/earth_night.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/jupiter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/mars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/mars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/mercury.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/moon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/neptune.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/pluto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/saturn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/saturn_ring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/stars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/sun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/sun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/uranus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/venus_atmo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textures/venus_surface.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.js" beforeDir="false" afterPath="$PROJECT_DIR$/gui.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +57,7 @@
       <workItem from="1607635205423" duration="24124000" />
       <workItem from="1607711796376" duration="125000" />
       <workItem from="1607711938644" duration="1218000" />
-      <workItem from="1608019783453" duration="22302000" />
+      <workItem from="1608019783453" duration="24282000" />
     </task>
     <servers />
   </component>
@@ -85,11 +67,21 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
